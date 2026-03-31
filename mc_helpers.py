@@ -13,7 +13,7 @@ New in Seminar 7:
 import numpy as np
 import os
 
-
+      #asdf
 # ─────────────────────────────────────────────────────────────────────────────
 # Connectivity and lattice setup  (from Seminar 6, unchanged)
 # ─────────────────────────────────────────────────────────────────────────────
